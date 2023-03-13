@@ -1,4 +1,4 @@
-#Hi there! 👋
+# Hi there! 👋
 
 I'm Jorge Ildefonso, a curious and enthusiastic individual who loves to learn and explore the world of programming. My expertise lies in languages such as PHP, JavaScript, and C++, and I am constantly striving to expand my knowledge and skillset.
 
@@ -13,7 +13,7 @@ I'm Jorge Ildefonso, a curious and enthusiastic individual who loves to learn an
 - Database Management: MySQL, MongoDB
 - Tools and Frameworks: Laravel, Node.js, React.js
 
-##Contact Me
+## Contact Me
 
 If you have any interesting project or would like to collaborate, feel free to reach out to me at jor.ildefonso@gmail.com. I'm always looking for new challenges and opportunities to learn and grow in the field of programming.
 
